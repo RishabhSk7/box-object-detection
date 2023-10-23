@@ -3,7 +3,7 @@ from ultralytics import YOLO
 import cv2
 
 def main()->None:
-    img = "images/303_jpg.rf.c3390072384e5dbfe04b00b0c37c4892.jpg"
+    img = "images/"+"303_jpg.rf.c3390072384e5dbfe04b00b0c37c4892.jpg"
 
     # model = YOLO("yolov8s.pt")
     # model.train(data="ignore/data.yaml", epochs=30, batch=7)
