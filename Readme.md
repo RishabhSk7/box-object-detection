@@ -8,3 +8,4 @@ Finally, all the testing images are in "images" directory. The default is set to
 but can be changed by modifying the "img" variable in main.
 
 Example will be similar to the "output.png" in a new window for the default image.
+![Alt text](results.png?raw=true)
