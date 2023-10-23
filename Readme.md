@@ -1,3 +1,5 @@
+first `pip install opencv-python` and `pip install ultralytics`.
+
 The models are stored in "weights" directory. The two models are "best.pt" and "last.pt". Currently using "last.pt"
 for as it is most refined. 
 
